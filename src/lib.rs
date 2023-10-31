@@ -9,4 +9,4 @@ mod gadd;
 
 mod g1scalpar;
 
-mod allocstruct;
+mod two_point_add;
